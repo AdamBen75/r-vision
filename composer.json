@@ -1,0 +1,10 @@
+{
+  "name": "mon-projet/revisions-poo",
+  "description": "Projet POO",
+  "require": {},
+  "autoload": {
+    "psr-4": {
+      "App\\": "src/"
+    }
+  }
+}
